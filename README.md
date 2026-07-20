@@ -1,3 +1,6 @@
+<img width="1405" height="768" alt="Gemini_Generated_Image_hfoq9shfoq9shfoq" src="https://github.com/user-attachments/assets/c5d05917-2909-423f-9d56-83d897dde1dd" />
+
+
 # Hangman Game
 
 A simple Python Hangman game built as part of the 100 Days of Python practice.
