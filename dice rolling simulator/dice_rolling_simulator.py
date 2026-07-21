@@ -30,7 +30,7 @@ The below code will add a label giving a heading to our dice simulator. Also, we
 '''
 
 # adding label with different font and formatting them to makes nice to user
-HeadingLabel = tkinter.Label(root, text="Hello from oldSchools!",
+HeadingLabel = tkinter.Label(root, text="Hello from datasimulator!",
                              fg="light green",
                              bg="dark green",
                              font="Helvetica 16 bold italic")
